@@ -22,7 +22,11 @@ Manual testing using the Smoke and Exploratory testing methods.
 
 # Best place to see the project
 
-You can download the CSV file from this project to check it or click this (Drive link)[https://docs.google.com/spreadsheets/d/1L7kt7GFLWHpHx1L1DQWIx6gGFkGNhdWsWvOR4_mk6JM/edit?usp=sharing] which is where I make all the changes first.
+You can download the CSV file from this project to check it or click this [Drive link](https://docs.google.com/spreadsheets/d/1L7kt7GFLWHpHx1L1DQWIx6gGFkGNhdWsWvOR4_mk6JM/edit?usp=sharing) which is where I make all the changes first.
+
+# Feedback
+
+All feedback to propose better solutions, management, ideas or advice to hone my testing skills is greatly welcomed. 
 
 # Author
 
