@@ -9,7 +9,7 @@ Within this project, you can find the Test Plan, 3 Test Suites and many Test Cas
 
 # Scope
 
-- In Scope: Title Screen, Main menu and Game Scene Test Suites. Within the first one, there will be tests related to the functionality with the buttons and title animation. In the second Test Suite, there are tests regarding functionality, screen transition and animation. Lastly, for the Game Scene Test Suite, there are tests testing the functionality and some animations related to the main character's actions.              
+- In Scope: Title Screen, Main menu and Game Scene Test Suites. Within the first one, there will be tests related to the functionality with the buttons and title animation. In the second Test Suite, there are tests regarding buttons and passwords functionality, screen transition and animation. Lastly, for the Game Scene Test Suite, there are tests testing the functionality and some animations related to the main character's actions.              
 - Out of Scope: Neither performance, accesibility, integration, regression, usabilty nor secutiry tests are included here, all of them are functional tests. Nonetheless, scope is reduced to only the Test Suites aforementioned. In addition, there will not be any test for the audio, other animations and enemies behaviour.
 
 # Environment and Tools
@@ -18,7 +18,7 @@ The hardware used is Nintendo Switch (ver 19.0.1) and the Software used is Ninte
 
 # Testing techniques
 
-Manual testing using the Smoke and Exploratory testing methods.
+Manual testing using Smoke and Exploratory testing methods.
 
 # Best place to see the project
 
